@@ -4,7 +4,7 @@
   "description": "Node packages used for the Landscape Data Commons website",
   "main": "index.js",
   "dependencies": {
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "bcrypt": "^3.0.6",
     "express": "^4.17.1",
     "pg": "^7.12.1",
